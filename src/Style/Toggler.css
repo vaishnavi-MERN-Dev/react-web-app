@@ -1,0 +1,19 @@
+.newbtnn{
+    position: absolute;
+    top: 9px;
+    right: 12px;
+    background: white;
+    border: 0;
+    color: red;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 20px;
+}
+
+.firstcardd{
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.design{
+    border:0;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}

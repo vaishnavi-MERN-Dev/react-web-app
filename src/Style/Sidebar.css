@@ -1,0 +1,64 @@
+.sidebarbg{
+    background-color: rgba(237, 241, 240, 0.542);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.firstcard{
+    /* margin-left: 50px; */
+    position: relative;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.firstimg{
+    width: 25%;
+    border-radius: 50px;
+}
+.list1{
+    
+background: rgb(121, 164, 121);
+padding: 10px;
+margin-top: 7px;
+font-weight: bold;
+display: flex;
+text-align: center;
+align-items: center;
+justify-content: center;
+}
+.list{
+    
+    background: rgb(121, 164, 121);
+    padding: 10px;
+    margin-top: 7px;
+    font-weight: bold;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 39%;
+    }
+.list2{
+        
+background: rgb(50, 87, 50);
+padding: 10px;
+margin-top: 7px;
+font-weight: bold;
+display: flex;
+text-align: center;
+align-items: center;
+justify-content: center;
+width: 39%;
+}
+.cardcard{
+    border: 0;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 20px;
+
+}
+
+.newbtn{
+border-radius: 50px;
+background: white;
+color: red;
+font-weight: bold;
+border: 0;
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
